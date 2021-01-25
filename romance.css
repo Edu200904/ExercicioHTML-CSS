@@ -59,7 +59,7 @@ ul {
     transition: ease-in;
 }
 body {
-    background-color: rgb(156, 192, 132);
+    background-color: rgba(224, 70, 70, 0.651);
 }
 .img1 {
     position: absolute;
@@ -79,19 +79,19 @@ body {
 .d1 {
     position: absolute;
     top: 450px;
-    left: 417px;
+    left: 453px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .d2 {
     position: absolute;
     top: 450px;
-    left: 703px;
+    left: 725px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .d3 {
     position: absolute;
     top: 450px;
-    left: 1040px;
+    left: 1117px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }    
 .title1 {
@@ -119,19 +119,19 @@ body {
 .d4 {
     position: absolute;
     top: 790px;
-    left: 400px;
+    left: 430px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .d5 {
     position: absolute;
     top: 790px;
-    left: 791px;
+    left: 785px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .d6 {
     position: absolute;
     top: 790px;
-    left: 1110px;
+    left: 1080px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .title2 {
@@ -159,18 +159,18 @@ body {
 .d7 {
     position: absolute;
     top: 1140px;
-    left: 350px;
+    left: 445px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .d8 {
     position: absolute;
     top: 1140px;
-    left: 705px;
+    left: 770px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .d9 {
     position: absolute;
     top: 1140px;
-    left: 1020px;
+    left: 1127px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
